@@ -1,4 +1,4 @@
-import { bannerUrl } from "./setting/api.js";
+//import { bannerUrl } from "./setting/api.js";
 import { productsUrl } from "./setting/api.js";
 import { createBanner } from "./components/heroBanner.js";
 import { fetchApi } from "./setting/fetchApi.js";

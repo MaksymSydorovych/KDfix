@@ -1,10 +1,10 @@
 .banner {
 	width: 100%;
+	background: url("/images/hero-banner.jpg");
 	background-repeat: no-repeat;
 	min-height: 600px;
 	background-size: cover !important;
 	background-position: center !important;
-	background-image: url("/images/hero-banner.jpg");
 
 	&__text {
 		display: flex;
