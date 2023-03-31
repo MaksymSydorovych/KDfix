@@ -4,6 +4,7 @@
   min-height: 600px;
   background-size: cover !important;
   background-position: center !important;
+  background-image: url('/images/hero-banner.jpg');
 }
 
 .banner__text {
